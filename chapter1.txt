@@ -1,2 +1,6 @@
 This is a chapter 1
+<<<<<<< HEAD
 ni
+=======
+Aliens have taken over the Earth.
+>>>>>>> alien-plot
